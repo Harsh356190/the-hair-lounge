@@ -1,0 +1,6 @@
+{
+  "name": "The Hair Lounge Unisex Salon",
+  "description": "Premier unisex salon & beauty lounge in Agarkar Nagar, Pune. Specializing in Nanoplastia, Hair Spa, Bridal Makeovers, and precision styling by Shilpa & Santosh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
